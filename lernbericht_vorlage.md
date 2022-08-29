@@ -3,7 +3,7 @@ Fischer Leonardo
 
 ## Einleitung
 
-Dies ist ein Lernbericht über einen Auftrag welchen wir im Modul 133 erhalten haben. In diesem Modul geht es um Web-Applikationen und Sessions
+Dies ist ein Lernbericht über einen Auftrag welchen wir im Modul 133 erhalten haben. In diesem Modul geht es um Web-Applikationen und Sessions mittels JSF.
 
 ## Was habe ich gelernt?
 
@@ -14,7 +14,7 @@ Weiter habe ich gelernt wie man bei diesem Prozess Informationen des Users abspe
 
 ✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
 
-* Eine textliche Beschreibung
+Indem man das
 * Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
 * Ein gut dokumentierter Code-Fetzen
 * Ein Link zu einem *selbst aufgenommenen* youtube-Video oder `.gif`.
