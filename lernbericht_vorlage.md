@@ -14,10 +14,15 @@ Weiter habe ich gelernt wie man bei diesem Prozess Informationen des Users abspe
 
 ✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
 
-Indem man das
-* Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
-* Ein gut dokumentierter Code-Fetzen
-* Ein Link zu einem *selbst aufgenommenen* youtube-Video oder `.gif`.
+Indem man das Bild mittels graphicImage im commandLink einfügt kann man das Bild als Link benutzen, fügt man dann noch einen ActionListener hinzu kann man Informationen durch den Klick des Users herauslesen und in der Bean speichern.
+
+```java
+<h:commandLink action="#{helloController.weiterleitung}">  
+      <h:graphicImage url="https://www.haustierratgeber.de/wp-content/uploads/2020/01/Alaskan-Malamute-768x511.jpeg.webp"/>
+</h:commandLink>
+``` 
+
+![image](https://user-images.githubusercontent.com/88442184/187163214-266c94c8-469e-4c79-8ee9-68d3894dfbbf.png)
 
 ## Verifikation
 
