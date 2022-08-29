@@ -1,13 +1,14 @@
 # Lern-Bericht
-✍️ ggf. Ihr Gruppenname und Ihre Gruppenmitglieder
+Fischer Leonardo
 
 ## Einleitung
 
-✍️ Ein Satz, worum es in dem Projekt ging. Muss für einen externen Leser einfach zu verstehen sein.
+Dies ist ein Lernbericht über einen Auftrag welchen wir im Modul 133 erhalten haben. In diesem Modul geht es um Web-Applikationen und Sessions
 
 ## Was habe ich gelernt?
 
-✍️ Beschreiben Sie in einem Satz **eine** Sache, die Sie bei diesem Projekt gelernt haben und die Sie in diesem Lern-Bericht dokumentieren.
+Ich habe gelernt Bilder als Links zu verwenden und somit den Benutzer auf eine weitere Seite zu führen.
+Weiter habe ich gelernt wie man bei diesem Prozess Informationen des Users abspeichert.
 
 ## Beschreibung
 
