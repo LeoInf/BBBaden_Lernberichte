@@ -26,12 +26,12 @@ Indem man das Bild mittels graphicImage im commandLink einfügt kann man das Bil
 
 ## Verifikation
 
-✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
+Mein Wissen über das gelernte wurde mittels Text dargelegt in welchem ich beschrieben habe wie ich vorgegangen bin.
+Der Code zeigt beweist, dass es funktioniert und gemacht wurde. Das Bild hilft darzulegen wie es für den Benutzer aussieht.
 
 # Reflektion zum Arbeitsprozess
 
-👍 Überlegen Sie sich jeweils etwas, was gut an Ihrer Arbeit lief; 
+Der Auftrag lief gut und mittels der Präsentationen des Lehrers war der Auftrag sehr verständlich.
+Während des Arbeitens Zuhause war die Konzentration nicht dauerhaft hoch.
 
-👎 und etwas, was nicht gut lief.
-
-**VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
+Beim nächsten mal sollte ich weniger Musik während des Arbeitens hören.
